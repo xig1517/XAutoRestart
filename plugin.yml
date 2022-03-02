@@ -1,0 +1,13 @@
+name: XAutoRestart
+main: xig1517\main
+version: 1.0
+api: 4.2.1
+author: xig1517
+description: auto restart your server
+website: https://github.com/xig1517
+commands:
+  xar:
+    permission: xig1517.command.xar
+permissions:
+  xig1517.command.xar:
+    default: true
